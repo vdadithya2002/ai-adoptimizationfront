@@ -6,7 +6,7 @@ import AboutPage from './components/AboutPage'; // Import the AboutPage componen
 import jsPDF from 'jspdf';
 import ErrorBoundary from './components/ErrorBoundary'; // Import the ErrorBoundary component
 
-const API_URL = "https://ai-adoptimizationback.onrender.com/api/";
+const API_URL = "https://ai-adoptimizationback.onrender.com";
 
 const styles = {
   navbar: {
